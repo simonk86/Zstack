@@ -1,0 +1,117 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>15.0.1</Version>
+<Cluster>
+<Name>Settings In</Name>
+<NumElts>7</NumElts>
+<Cluster>
+<Name>Camera Configuration</Name>
+<NumElts>1</NumElts>
+<U32>
+<Name>Camera Index</Name>
+<Val>0</Val>
+</U32>
+</Cluster>
+<Cluster>
+<Name>Logging Configuration</Name>
+<NumElts>1</NumElts>
+<Path>
+<Name>Log File Base Path</Name>
+<Val>C:\Users\Labmember\Documents\LabVIEW Data\Logged Data.tdms</Val>
+</Path>
+</Cluster>
+<Cluster>
+<Name>XYZ Configuration</Name>
+<NumElts>2</NumElts>
+<Refnum>
+<Name>VISA resource name</Name>
+<RefKind>VISA</RefKind>
+<Val></Val>
+</Refnum>
+<U32>
+<Name>Timeout (3sec)</Name>
+<Val>0</Val>
+</U32>
+</Cluster>
+<Cluster>
+<Name>DM Configuration</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>Selected Profile</Name>
+<Val></Val>
+</String>
+<Cluster>
+<Name>dm out</Name>
+<NumElts>8</NumElts>
+<I32>
+<Name>type</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>ID</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>size</Name>
+<Val>0</Val>
+</I32>
+<I8>
+<Name>@dummy control@</Name>
+<Val>0</Val>
+</I8>
+<I8>
+<Name>@dummy control@</Name>
+<Val>0</Val>
+</I8>
+<I8>
+<Name>@dummy control@</Name>
+<Val>0</Val>
+</I8>
+<I8>
+<Name>@dummy control@</Name>
+<Val>0</Val>
+</I8>
+<U64>
+<Name>lutName</Name>
+<Val>0</Val>
+</U64>
+</Cluster>
+</Cluster>
+<Cluster>
+<Name>Automation Configuration</Name>
+<NumElts>1</NumElts>
+<U32>
+<Name> Index</Name>
+<Val>0</Val>
+</U32>
+</Cluster>
+<Cluster>
+<Name>V7001 Configuration</Name>
+<NumElts>1</NumElts>
+<U32>
+<Name> Index</Name>
+<Val>0</Val>
+</U32>
+</Cluster>
+<Cluster>
+<Name>AOD Configuration</Name>
+<NumElts>4</NumElts>
+<DAQChannel>
+<Name>Physical Channel</Name>
+<Val></Val>
+</DAQChannel>
+<DBL>
+<Name>Maximum Value</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Minimum Value</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Update Rate</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+</Cluster>
+</LVData>
