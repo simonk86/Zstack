@@ -25,6 +25,8 @@
 	<Item Name="Connect to stage.vi" Type="VI" URL="../Connect to stage.vi"/>
 	<Item Name="Disconnect from stage.vi" Type="VI" URL="../Disconnect from stage.vi"/>
 	<Item Name="Error Handler - XYZStage Message Loop.vi" Type="VI" URL="../Error Handler - XYZStage Message Loop.vi"/>
+	<Item Name="Move To.vi" Type="VI" URL="../Move To.vi"/>
+	<Item Name="Poll Position.vi" Type="VI" URL="../Poll Position.vi"/>
 	<Item Name="Wait For Stage.vi" Type="VI" URL="../Wait For Stage.vi"/>
 	<Item Name="XYZStage Message Loop.vi" Type="VI" URL="../XYZStage Message Loop.vi"/>
 </Library>
